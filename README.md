@@ -10,10 +10,15 @@ HAMD-NET is a biologically informed deep learning model employs a hybrid archite
 The follwoing are the fundamental experiments of our proposed model, HAMD-NET.
 
 > Spatial and Spectral Overlaps in Neurological Disorders
+
 > Spectral Complexity in Multi-Disease EEG Signals
+
 > Functional Connectivity and Biomarker Validation
+
 > Classification Performance
+
 > Model Interpretability through Spatial and Temporal Attention
+
 > Ablation Models
 
 ## Citation
