@@ -1,1 +1,4 @@
-# HAMD-NET
+# HAMD-NET 
+HAMD-NET is a biologically informed deep learning model employs a hybrid architecture, integrating convolutional, recurrent, and transformer-based mechanisms to capture EEG signals’ spatial, temporal, and spectral
+features. Positional encoding and multi-head self-attention discern disease-specific biomarker relationships in the time series data, enabling the detection of individual and comorbid neurological conditions while handling multi-disease EEG complexities. Additionally, we propose a novel multi-disease EEG dataset synthesis method designed to generate realistic physiological EEG patterns and spectral biomarkers specific to each neurological disorder, addressing the scarcity of publicly available comorbid EEG datasets. The model demonstrates robust diagnostic capabilities, attaining high accuracy in single-disease classification and 
+ maintaining strong performance (89%) in challenging multidisease scenarios. The proposed approach advances EEG-based diagnosis, offering a reliable tool for accurate and generalized multi-disease classification in clinical settings.
