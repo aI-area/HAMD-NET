@@ -7,10 +7,14 @@ HAMD-NET is a biologically informed deep learning model employs a hybrid archite
 
 ## Experiment List
 
-> The follwoing are the fundamental experiments of our proposed model, HAMD-NET.
+The follwoing are the fundamental experiments of our proposed model, HAMD-NET.
 
-- xyz
-
+> Spatial and Spectral Overlaps in Neurological Disorders
+> Spectral Complexity in Multi-Disease EEG Signals
+> Functional Connectivity and Biomarker Validation
+> Classification Performance
+> Model Interpretability through Spatial and Temporal Attention
+> Ablation Models
 
 ## Citation
 
@@ -18,4 +22,4 @@ A related paper is submitted in a high-quality SCI journal.
 
 > Cite as:
 
-S. Aslam, H. Wu, 'HAMD-Net: A Biologically Informed Hybrid Attention-Based Model for Multi-Disease EEG Classification', (2025). 
+S. Aslam, H. Wu*, 'HAMD-Net: A Biologically Informed Hybrid Attention-Based Model for Multi-Disease EEG Classification', (2025). 
